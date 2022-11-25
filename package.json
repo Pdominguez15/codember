@@ -1,0 +1,18 @@
+{
+  "name": "codember",
+  "version": "1.0.1",
+  "description": "Solutions to the challenges from https://codember.dev/ with Javascript",
+  "type": "module",
+  "keywords": [
+    "codember",
+    "javascript"
+  ],
+  "scripts": {
+    "challenge01": "node challenge01",
+    "challenge02": "node challenge02",
+    "challenge03": "node challenge03",
+    "challenge04": "node challenge04"
+  },
+  "author": "Pedro Dominguez Aguilera",
+  "license": "MIT"
+}
